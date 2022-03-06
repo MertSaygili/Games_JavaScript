@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&family=Vesper+Libre:wght@900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Orbitron:wght@500&family=Vesper+Libre:wght@900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+
+    <!-- Title -->
+    <header>
+      <h1 class="title">Rock Paper Scissors</h1>
+      <h4 class="score">0 - 0</h4>
+    </header>
+
+    <!-- Result screen and score  -->
+    <section class="result-screen">
+      <div class="player">
+        <h3>Player</h3>
+        <img class="player-choosen" src="Images/rock.png" alt="">
+      </div>
+
+      <div class="horizontal-line"></div>
+
+      <div class="computer">
+        <h3>Computer</h3>
+        <img class="computer-choosen" src="Images/rock.png" alt="">
+      </div>
+      <p class="result-text">Make your move</p>
+    </section>
+
+    <!-- User's choices -->
+    <section class="choices">
+      <p class="countdown"><i>Best of 5</i></p>
+      <div class="">
+        <img class="scissors" src="Images/scissors.png" alt="">
+
+        <img class="rock" src="Images/rock.png" alt="">
+
+        <img class="paper" src="Images/paper.png" alt="">
+      </div>
+    </section>
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="index.js" charset="utf-8"></script>
+  </body>
+</html>
