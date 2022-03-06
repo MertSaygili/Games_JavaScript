@@ -9,5 +9,11 @@ I saw this project(game) in Angela Yu's tutorial and wanted to make this site on
 ![Screenshot 2022-02-28 205740](https://user-images.githubusercontent.com/74828364/156034652-8f35db19-0265-4187-b77c-36ac5e9a6016.png)
 
 # 2-RockPaperScissors Game
+It is the one of the oldest game that everyone should know about it. Chine resources show that this game was playing at 15. century in China. I used JavaScript(Jquery) HTML and CSS technologies. <br> <br>
+![rock-paper-scissors](https://user-images.githubusercontent.com/74828364/156921278-6b079dbf-5303-4b1f-bea8-8fcf389899d6.png)
 
-![rock-paper-scissors](https://user-images.githubusercontent.com/74828364/156920781-9f409197-3c52-404d-a4b9-1edef97c9f9c.png)
+<ul>
+  <li>Rock wins against Scissors</li>
+  <li>Paper wins against Rock</li>
+  <li>Scissors wins against Paper </li>
+</ul>
