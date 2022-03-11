@@ -1,0 +1,29 @@
+body {
+  text-align:center;
+  background-color: #381460;
+  font-family: 'Fredoka', sans-serif;
+  font-size: 1.4rem;
+  color: #ffffff
+}
+.title{
+  font-size: 3rem;
+  margin-top: 2.5rem;
+  font-family: 'Kaushan Script', cursive;
+  color: #77D970;
+  margin: 0.5% auto 20px;
+}
+.game{
+  margin: 1% 5%;
+}
+.btn-img{
+  padding: 0;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: 3px solid black;
+  visibility: hidden;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
