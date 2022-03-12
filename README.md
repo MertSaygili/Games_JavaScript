@@ -20,7 +20,7 @@ It is the one of the oldest game that everyone should know about it. Chine resou
 
 # 3-Clicking Game
 A few years ago I was playing cs go a lot and I needed to develop my aim because am not good at fps games so I used different kinds of aim maps to develop my aim. I've made this game
-for people like me. In-game you need to choose time and difficulty after that I need to click buttons that show up on the screen. good luck :) <br> <br> <br>
+for people like me. In-game you need to choose time and difficulty after that I need to click buttons that show up on the screen. I used JavaScript(Jquery) HTML and CSS technologies. Good luck :) <br> <br>
 ![start](https://user-images.githubusercontent.com/74828364/158027204-a00652c3-58c1-44df-8f30-dedb9d49c335.png) <br>
 ![next](https://user-images.githubusercontent.com/74828364/158027210-c38a1b0c-5719-4314-9de1-837d30c926ca.png) <br>
 ![last](https://user-images.githubusercontent.com/74828364/158027394-0e7a2e93-124b-4561-aee2-869cebc18896.png) <br>
