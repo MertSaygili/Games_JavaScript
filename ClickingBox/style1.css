@@ -13,9 +13,11 @@ body {
   margin: 0.5% auto 20px;
 }
 .game{
+  user-select: none;
   margin: 1% 5%;
 }
 .btn-img{
+  user-selected: none;
   padding: 0;
   width: 100px;
   height: 100px;
